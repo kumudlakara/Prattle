@@ -1,2 +1,3 @@
 # Prattle
-AI empowered chat application
+Terminal chat application with in app file transfer capabilies.
+
