@@ -20,7 +20,5 @@ Prattle uses Pusher to add real-time data and user functionality. The user datab
 - Adding password protection for "worlds".
 - Allowing task assignment to "world" members.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
